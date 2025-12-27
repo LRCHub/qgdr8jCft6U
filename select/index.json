@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "グローエンブレイス",
+  "base_artist": "白上フブキ",
+  "createdAt": "2025-12-27T17:29:43.988260Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グローエンブレイス",
+      "artist": "白上フブキ",
+      "has_synced": false,
+      "path": "select/pl_01_グローエンブレイス_白上フブキ.txt"
+    }
+  ]
+}
